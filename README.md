@@ -1,19 +1,6 @@
-# FinaleMusicBot
+### FinaleMusicBot
 
-
-This is a basic conceptual Music bot on Discord App. 
-It works using different youtube based node modules and does basic things like:
-
-!join - invites bot to join the voice channel
-!play - playing the music
-!add - adding to queue
-!stop - stopping the play
-!skip - skipping
-
-
-Link - https://discord.gg/HhxByBf4
-
-
+This is a basic conceptual Music bot on Discord App.
 If you want to open and run it from this pack, then you'll need to install Node.js and FFMPG separately.
 
 
